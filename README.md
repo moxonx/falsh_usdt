@@ -17,7 +17,7 @@ Before using this script, ensure you have the following:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/usdt-ethereum-transaction.git
+   git clone https://github.com/moxonx/falsh_usdt.git
    cd usdt-ethereum-transaction
    ```
 2. Install the required Python packages:
