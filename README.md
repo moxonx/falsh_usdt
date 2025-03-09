@@ -81,14 +81,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Support
 If you find this project helpful, consider giving it a ⭐ on GitHub. For questions or issues, please open an issue in the repository.
 
----
 
-### How to Add the `README.md` to Your Repository
-1. Save the above content in a file named `README.md`.
-2. Add it to your repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README.md file"
-   git push origin main
-   ```
 
